@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokesh-poovalagan" alt="lokesh-poovalagan" /></a> </p>
 
-- 🌱 I’m currently learning **cloud computing**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Lokesh-Poovalagan?tab=repositories](https://github.com/Lokesh-Poovalagan?tab=repositories)
 
 - 📫 How to reach me **lakshaikumar22@gmail.com**
